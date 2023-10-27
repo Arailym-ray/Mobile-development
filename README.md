@@ -6,6 +6,6 @@ Flutter Documantation   https://docs.flutter.dev
 Flutter Installhttps://docs.flutter.dev/get-started/install/
 
 GoogleClassRoom для отправки отчетов по практичиским заданиям:
-https://classroom.google.com/c/NjMwNzQ0MjYxNTE5?cjc=pircjku
+https://classroom.google.com/c/NjMwNzcwMDQwMzI2?cjc=a7l5mor
 
-Код: pircjku
+Код: a7l5mor
