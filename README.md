@@ -9,6 +9,3 @@ GoogleClassRoom для отправки отчетов по практичиск
 https://classroom.google.com/c/NjMwNzcwMDQwMzI2?cjc=a7l5mor
 
 Код: a7l5mor
-
-
-https://forms.gle/dZhDkyYkQAuDkh1e7  - Тест РК1
